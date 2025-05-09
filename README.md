@@ -11,7 +11,7 @@ The study involves a unique dataset collected under real-world hospital conditio
 - 🟡 202 with Chronic Obstructive Pulmonary Disease (COPD)  
 - 🔴 130 with Pneumothorax (PNT)
 
-![Pulmonary Lung Auscultations on Self-Collected Dataset](overview.jpg)
+![Pulmonary Lung Auscultations on Self-Collected Dataset]()
 
 ## ✨ Highlights
 
