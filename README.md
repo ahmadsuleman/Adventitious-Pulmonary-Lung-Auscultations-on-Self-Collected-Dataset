@@ -1,4 +1,4 @@
-# 🫁 Real-Time Detection and Classification of Lung Auscultations Using Machine Learning
+# 📊 🏥  Real-Time Detection and Classification of Lung Auscultations Using Machine Learning
 
 > ⚠️ **Note:** This repository is currently under development and the code will be made publicly available upon the acceptance of the manuscript.
 
@@ -10,7 +10,7 @@ The study involves a unique dataset collected under real-world hospital conditio
 - 🟢 200 Healthy individuals  
 - 🟡 202 with Chronic Obstructive Pulmonary Disease (COPD)  
 - 🔴 130 with Pneumothorax (PNT)
-- 
+
 ![Pulmonary Lung Auscultations on Self-Collected Dataset](overview.jpg)
 
 ## ✨ Highlights
