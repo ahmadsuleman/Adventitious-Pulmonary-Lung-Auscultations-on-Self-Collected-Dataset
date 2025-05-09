@@ -13,28 +13,7 @@ The study involves a unique dataset collected under real-world hospital conditio
 
 ![Pulmonary Lung Auscultations on Self-Collected Dataset](overview.jpg)
 
-## Highlights
-
-- **Data Collection**: Lung sounds were acquired using LAAS in clinical settings.
-- **Feature Extraction**: Performed via wavelet decomposition.
-- **Machine Learning Models Used**:
-  - Cubic Support Vector Machine (C-SVM)
-  - Linear SVM (L-SVM)
-  - k-Nearest Neighbors (KNN)
-  - Decision Tree (DT)
-  - Random Forest (RF)
-  - Naive Bayes (NB)
-  - XGBoost
-  - Logistic Regression (LR)
-  - Random Forest with Extra Trees (RF-ET)
-  - AdaBoost (AB)
-
-- **Best Performing Model**:  
-  - **Cubic-SVM**  
-    - Normal: 99.5%  
-    - COPD: 99.5%  
-    - PNT: 100%
-## Summary of Methodology and Results
+## Highlights of Methodology and Results
 
 | **Component**              | **Description**                                                                 |
 |---------------------------|---------------------------------------------------------------------------------|
