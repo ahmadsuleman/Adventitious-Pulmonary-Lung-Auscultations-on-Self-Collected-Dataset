@@ -34,6 +34,14 @@ The study involves a unique dataset collected under real-world hospital conditio
     - Normal: 99.5%  
     - COPD: 99.5%  
     - PNT: 100%
+## Summary of Methodology and Results
+
+| **Component**              | **Description**                                                                 |
+|---------------------------|---------------------------------------------------------------------------------|
+| **Data Collection**       | Lung sounds acquired using LAAS in real-world clinical settings                |
+| **Feature Extraction**    | Wavelet decomposition used for extracting meaningful features                  |
+| **Machine Learning Models Used** | - Cubic SVM (C-SVM)<br> - Linear SVM (L-SVM)<br> - k-Nearest Neighbors (KNN)<br> - Decision Tree (DT)<br> - Random Forest (RF)<br> - Naive Bayes (NB)<br> - XGBoost<br> - Logistic Regression (LR)<br> - Random Forest with Extra Trees (RF-ET)<br> - AdaBoost (AB) |
+| **Best Performing Model** | **Cubic-SVM**<br> - Normal: 99.5%<br> - COPD: 99.5%<br> - PNT: 100%             |
 
 - **Interpretability**: Model decisions explained using **SHAP (Shapley Additive Explanations)**.
 
