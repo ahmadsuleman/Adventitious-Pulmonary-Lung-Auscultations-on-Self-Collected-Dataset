@@ -36,10 +36,10 @@ This repository aims to:
 ⏳ **Under Review**  
 This repository will be updated with the full source code and dataset access upon manuscript acceptance.
 
-## 📜 License
+## Citation
+```bitex
+@article{sulemanreal,
+  title={Real-time Classification of Adventitious Pulmonary Lung Auscultations on Self-Collected Dataset Using Multiple Machine Learning Models and Explainable AI},
+  author={Suleman, Ahmad and Khan, Misha Urooj and Khan, Hareem and Fiaz, Mohammad Abdullah Husnain Ali and Baloch, Naveed Khan}
+}
 
-This work will be released under an open-source license post-acceptance.
-
----
-
-Stay tuned! For questions or collaboration opportunities, feel free to reach out.
